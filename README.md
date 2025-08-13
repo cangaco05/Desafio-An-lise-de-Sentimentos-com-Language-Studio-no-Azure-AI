@@ -1,6 +1,6 @@
 # 📊 Azure Sentiment Analysis – Opinion Mining com Language Studio
 
-![Static Badge](https://img.shields.io/badge/📅_Finalizado-13/08/2025-green)
+![Static Badge](https://img.shields.io/badge/📅_Finalizado-13/08/2025-orange)
 
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 ![Azure AI](https://img.shields.io/badge/Azure%20AI-Language%20Studio-0078D4?logo=microsoftazure)
