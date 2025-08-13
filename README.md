@@ -1,5 +1,7 @@
 # 📊 Azure Sentiment Analysis – Opinion Mining com Language Studio
 
+![Static Badge](https://img.shields.io/badge/Status_Projeto:- Finalizado_(13/08.2025)-green)
+
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 ![Azure AI](https://img.shields.io/badge/Azure%20AI-Language%20Studio-0078D4?logo=microsoftazure)
 ![License](https://img.shields.io/badge/license-MIT-blue)
@@ -12,9 +14,8 @@ Projeto prático para demonstrar o uso do serviço **Analyze Sentiment and Mine 
 1. [🚀 Objetivo](#-objetivo)
 2. [🛠 Procedimento](#-procedimento)
 3. [📈 Resultados](#-resultados)
-4. [💡 Conclusão e Insights](#-conclusão-e-insights)
-5. [📸 Screenshots e GIFs](#-screenshots-e-gifs)
-6. [📚 Referências](#-referências)
+4. [💡 Conclusão](#-conclusão)
+
 
 ---
 
@@ -40,12 +41,36 @@ Abrir o Language Studio
 
 
 Selecionar o recurso criado no passo anterior
+<img width="1000" height="622" alt="05" src="https://github.com/user-attachments/assets/9d415478-f82e-4e13-bb39-2f6b4d89fcc3" />
+
 
 ### 3️⃣ Rodar o serviço
 Acessar Classify text → Analyze sentiment and mine opinions
+<img width="1020" height="583" alt="06" src="https://github.com/user-attachments/assets/c99b90cf-e872-4e63-bab3-88d3b0b94167" />
 
-Inserir o texto (trecho do Evangelho de Mateus)
+## 📈 Resultados
+No serviço, é possível enviar o texto para análise, definir o idioma e habilitar a função Opinion Mining.
+Neste teste, foi utilizado um capítulo do evangelho de Mateus, contido na Bíblia.
 
-Ativar opção Opinion Mining
+<img width="1716" height="784" alt="07" src="https://github.com/user-attachments/assets/c9f314d3-d3ba-4828-b044-72c647a316ae" />
 
-Definir idioma
+A análise indicou 65% de negatividade, mas com apenas 25% de confiança, variando entre sentenças com alta e baixa precisão.
+<img width="473" height="256" alt="08" src="https://github.com/user-attachments/assets/31e69cfa-77c8-45e2-bb49-d219ea499816" />
+
+<img width="649" height="288" alt="09" src="https://github.com/user-attachments/assets/1503a97d-bbe1-4329-b166-e25a34e3ddae" />
+
+<img width="662" height="265" alt="10" src="https://github.com/user-attachments/assets/6feb6db9-b166-4435-aace-ef1ebe800c9c" />
+
+
+## 💡 Conclusão 
+
+> **Ferramentas de análise de sentimentos** e **mineração de opiniões** representam componentes essenciais para a automação de avaliações de *feedbacks* em serviços e produtos.  
+> No entanto, apresentam diferentes níveis de eficácia dependendo do tipo de texto analisado.
+>
+> Ferramentas de análise de sentimentos e mineração de opiniões representam componentes valiosos na automação de processos de avaliação de feedbacks em serviços e produtos. Embora apresentem alta acurácia em textos explicitamente opinativos — como comentários e avaliações de consumidores —, sua eficácia tende a ser reduzida em conteúdos cuja carga emocional ou intenção subjetiva não se apresenta de forma explícita. Essa limitação decorre, em grande parte, do fato de que o mecanismo de análise processa sentenças de maneira isolada, sem realizar uma interpretação contextual abrangente do documento. A adoção de modelos capazes de estabelecer relações semânticas entre sentenças e inferir significado a partir de um contexto global provavelmente resultaria em diagnósticos mais precisos e consistentes.
+
+
+
+
+
+
