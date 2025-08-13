@@ -1,6 +1,6 @@
 # 📊 Azure Sentiment Analysis – Opinion Mining com Language Studio
 
-![Static Badge](https://img.shields.io/badge/Status_Projeto:- Finalizado_(13/08.2025)-green)
+![Static Badge](https://img.shields.io/badge/📅_Finalizado-13/08/2025-green)
 
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 ![Azure AI](https://img.shields.io/badge/Azure%20AI-Language%20Studio-0078D4?logo=microsoftazure)
@@ -64,8 +64,6 @@ A análise indicou 65% de negatividade, mas com apenas 25% de confiança, varian
 
 ## 💡 Conclusão 
 
-> **Ferramentas de análise de sentimentos** e **mineração de opiniões** representam componentes essenciais para a automação de avaliações de *feedbacks* em serviços e produtos.  
-> No entanto, apresentam diferentes níveis de eficácia dependendo do tipo de texto analisado.
 >
 > Ferramentas de análise de sentimentos e mineração de opiniões representam componentes valiosos na automação de processos de avaliação de feedbacks em serviços e produtos. Embora apresentem alta acurácia em textos explicitamente opinativos — como comentários e avaliações de consumidores —, sua eficácia tende a ser reduzida em conteúdos cuja carga emocional ou intenção subjetiva não se apresenta de forma explícita. Essa limitação decorre, em grande parte, do fato de que o mecanismo de análise processa sentenças de maneira isolada, sem realizar uma interpretação contextual abrangente do documento. A adoção de modelos capazes de estabelecer relações semânticas entre sentenças e inferir significado a partir de um contexto global provavelmente resultaria em diagnósticos mais precisos e consistentes.
 
