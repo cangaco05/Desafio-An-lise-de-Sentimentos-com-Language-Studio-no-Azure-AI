@@ -28,3 +28,17 @@ Realizar análise de sentimentos e mineração de opiniões em um texto, explora
 ### 1️⃣ Criar recurso no Azure
 ```text
 Azure Portal → Create Resource → Language Service → Deploy
+```
+### 2️⃣ Conectar ao Language Studio
+Abrir o Language Studio
+
+Selecionar o recurso criado no passo anterior
+
+### 3️⃣ Rodar o serviço
+Acessar Classify text → Analyze sentiment and mine opinions
+
+Inserir o texto (trecho do Evangelho de Mateus)
+
+Ativar opção Opinion Mining
+
+Definir idioma
