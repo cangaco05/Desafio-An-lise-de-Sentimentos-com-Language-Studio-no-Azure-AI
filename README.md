@@ -29,8 +29,15 @@ Realizar análise de sentimentos e mineração de opiniões em um texto, explora
 ```text
 Azure Portal → Create Resource → Language Service → Deploy
 ```
+<img width="762" height="524" alt="01" src="https://github.com/user-attachments/assets/44241162-3d50-4762-b668-933ce6668588" />
+
+<img width="634" height="765" alt="03" src="https://github.com/user-attachments/assets/db6939bf-86b9-4c09-b101-84b7cb04b561" />
+
 ### 2️⃣ Conectar ao Language Studio
 Abrir o Language Studio
+
+<img width="1000" height="622" alt="04" src="https://github.com/user-attachments/assets/69a16f1f-b13e-4527-ac7d-174c8a7fe6eb" />
+
 
 Selecionar o recurso criado no passo anterior
 
